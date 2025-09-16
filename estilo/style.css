@@ -88,6 +88,8 @@ nav > a {
     font-weight: bold;
     margin-bottom: 20px;
     transition-duration: .5s;
+    text-align: center;
+    display: inline-block;
 }
 
 nav > a:hover {
